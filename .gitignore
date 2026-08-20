@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+DS_Lab/Lab1/data/Magicbrick_files/analytics.js.download
+DS_Lab/Lab1/data/Magicbrick_files/al-notification.js.download
